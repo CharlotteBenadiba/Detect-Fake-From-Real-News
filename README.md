@@ -4,11 +4,11 @@
 This project involves clustering analysis on both text and image data using various machine learning techniques. The primary goal is to explore the effectiveness of clustering algorithms in grouping similar data points together.
 
 1. [Load Data and Initial Clustering](#Load-Data-and-Initial-Clustering)
-2. [Visualizing Clusters]
-3. [Performance Evaluation]
-4. [Finding Optimal K]
-5. [PCA Followed by K-Means]
-6. [MNIST Clustering]
+2. [Visualizing Clusters](#Visualizing-Clusters)
+3. [Performance Evaluation](#Performance-Evaluation)
+4. [Finding Optimal K](#Finding-Optimal-K)
+5. [PCA Followed by K-Means](#PCA-Followed-by-K-Means)
+6. [MNIST Clustering](#MNIST-Clustering)
 ---
 
 ## Files
@@ -25,6 +25,7 @@ Here, we load text data from CSV files ("Fake.csv" and "True.csv"), perform text
 ###2. Visualizing Clusters <a name="visualizing-clusters"></a>
 
 We visualize the clusters created by K-Means using Principal Component Analysis (PCA) for dimensionality reduction. The scatter plots and 3D scatter plots display the clustering results and the positions of cluster centers.
+
 
 ###3. Performance Evaluation <a name="performance-evaluation"></a>
 
